@@ -1,17 +1,80 @@
-# spotify_player
+# 🎵 Flutter Music Player
 
-A new Flutter project.
+A modern and fully functional music player app built with Flutter, inspired by professional streaming platforms.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+* 🎧 Play local audio files (mp3, wav, aac, ogg, m4a)
+* ⏯️ Playback controls (play, pause, next, previous)
+* 🔀 Shuffle and repeat modes
+* ❤️ Favorites system
+* 📁 Custom playlists
+* 🔍 Real-time search
+* 🌙 Light & Dark mode
+* 🎨 Dynamic UI based on album colors
+* 📊 Animated waveform visualizer
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🧠 Technologies
+
+* Flutter
+* Dart
+* Provider (State Management)
+* Shared Preferences
+
+---
+
+## 📸 Screenshots
+
+### 🏠 Home
+
+![Home](screenshots/home.png)
+
+### 🎵 Player
+
+![Player](screenshots/player.png)
+
+### 📂 Playlists
+
+![Playlists](screenshots/playlists.png)
+
+### 📄 Playlist Detail
+
+![Playlist](screenshots/playlist.png)
+
+### 🔍 Search
+
+![Search](screenshots/search.png)
+
+### ✏️ Edit
+
+![Edit](screenshots/edit.png)
+
+### ⚙️ Settings
+
+![Config](screenshots/config.png)
+
+---
+
+## ▶️ How to Run
+
+```bash
+flutter pub get
+flutter run
+```
+
+---
+
+## 📂 Assets
+
+* Add music files to: `assets/audio/`
+* Add images to: `assets/images/`
+
+---
+
+## 👨‍💻 Author
+
+Klivert - Systems Engineering Student

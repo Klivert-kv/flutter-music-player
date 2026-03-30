@@ -1,0 +1,11 @@
+Coloca aquí tus archivos .mp3, .wav, .aac, .ogg o .m4a
+El nombre del archivo se convierte automáticamente en el título de la canción.
+
+Ejemplos:
+  mi-cancion-favorita.mp3  →  "Mi Cancion Favorita"
+  rock_clasico.mp3         →  "Rock Clasico"
+  Jazz Song.mp3            →  "Jazz Song"
+
+Después de agregar los archivos, ejecuta:
+  flutter pub get
+  flutter run

@@ -29,34 +29,17 @@ A modern and fully functional music player app built with Flutter, inspired by p
 
 ## 📸 Screenshots
 
-### 🏠 Home
+<p align="center">
+  <img src="screenshots/player.png" width="250"/>
+  <img src="screenshots/playlists.png" width="250"/>
+  <img src="screenshots/playlist.png" width="250"/>
+</p>
 
-![Home](screenshots/home.png)
-
-### 🎵 Player
-
-![Player](screenshots/player.png)
-
-### 📂 Playlists
-
-![Playlists](screenshots/playlists.png)
-
-### 📄 Playlist Detail
-
-![Playlist](screenshots/playlist.png)
-
-### 🔍 Search
-
-![Search](screenshots/search.png)
-
-### ✏️ Edit
-
-![Edit](screenshots/edit.png)
-
-### ⚙️ Settings
-
-![Config](screenshots/config.png)
-
+<p align="center">
+  <img src="screenshots/search.png" width="250"/>
+  <img src="screenshots/edit.png" width="250"/>
+  <img src="screenshots/config.png" width="250"/>
+</p>
 ---
 
 ## ▶️ How to Run
